@@ -1,3 +1,5 @@
-# dies
- oops I forgot to add my files to github ._.
-https://herbeon.itch.io/prode-dies finished thing is here
+# "bring forth the days"
+Rod is the protagonist. Rod was murdered.
+They reawaken two months before their murder... what will they do about it?
+
+[Play the game here!](https://herbeon.itch.io/prode-dies)
