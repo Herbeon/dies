@@ -11,7 +11,7 @@ This was my first renpy visual novel, made for [Storyboard](https://storyboard.h
 This game can be played on the web! click the itch.io link to get started.
 
 # special thanks
-my friends, for allowing me to insert them
-Storyboard for motivating me to make this!
-hack club people for being awesome! external validation is so encouraging
-and people taking a look at this game. I hope you enjoy!
+* my friends, for allowing me to insert them
+* Storyboard for motivating me to make this!
+* hack club people for being awesome! external validation is so encouraging
+* and people taking a look at this game. I hope you enjoy!
